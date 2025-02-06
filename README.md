@@ -1,6 +1,8 @@
 # Business Insights 360-for-AtliQ-Hardware-using-Power-BI
 Developed Business Insights 360 for AtliQ Hardware using Power BI, delivering real-time insights across finance, sales, marketing, and supply chain, improving decision-making and reducing reliance on Excel, resulting in a 30% increase in operational efficiency, 50 % in maintaining inventory.
 
+Power BI Live Sheet Link - https://app.powerbi.com/groups/me/reports/59213ca0-c9ff-4d7f-afd1-5ca9c3bd758d/ReportSection0e765c0061580b067c73?experience=power-bi
+
 You can access the front page here. Link for power bi desktop live sheet is is attached in front page.
 ![Slide1](https://github.com/user-attachments/assets/64b892f5-efb0-491f-932d-a52ea7cd445d)
 
